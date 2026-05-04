@@ -32,7 +32,8 @@ Unlike most reverse proxy solutions based on protocol identification and port ma
 + Download the release file that has been compressed with xz.
 + Extract the file.
 + Use Rufus or other tools to write it onto the micro SD card.
-+ Insert the micro SD card into the Raspberry Pi and power it on to start.
++ Insert the micro SD card into the card slot and power it on to start. (For Raspberry Pi and Orange Pi)
++ Create a USB bootable stick with the iso file and then install it on your computer or virtual machine.
 + Configure one Raspberry Pi as a server and the other as a client.
 
 For complete usage instructions, please visit the [Author's Homepage ](http://www.rollbilink.com).
