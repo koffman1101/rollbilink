@@ -1,0 +1,5 @@
+Updated at 5/12/2026 20:38
+  + Fixed the error in the vendor display on the Raspberry Pi 3b+.
+  + Fixed the issue where records were not deleted after a hole-punching operation failed.
+  + The Release file has been updated to May 12, 2026.
+  
