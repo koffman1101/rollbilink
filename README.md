@@ -1,5 +1,8 @@
 # Rollbilink
-A free P2P internal network penetration router system specifically designed for Raspberry Pi, Orange Pi, x86_64 computers and virtual machines. It supports the open-source hardwares listed in the following table.
+A free P2P internal network penetration router system specifically designed for Raspberry Pi, Orange Pi, x86_64 computers and virtual machines. 
+Best of all, you just make a ROLLBILINK router and you can share your LAN with anyone who also has a ROLLBILINK router.</p>
+# Hardware
+It supports the open-source hardwares listed in the following table.
 | Product |	Processor |	Core |	Architecture |	OS  |
 |----------------|---------|---------|---------|--------------------|
 | Raspberry Pi 1 |	BCM2835 |	ARM1176 |	arm6hf |	Raspbian Lite (32bit) |
