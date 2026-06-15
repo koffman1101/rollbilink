@@ -1,3 +1,6 @@
+Updated at 6/16/2026 12:02
+    + Fixed the bug causing slow protocol synchronization during P2P hole punching.
+
 Updated at 5/20/2026 12:18
     + Add Chinese introduction into the README.md
 
