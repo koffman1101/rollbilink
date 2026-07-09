@@ -1,3 +1,8 @@
+Updated at 7/8/2026 19:35
+    + The tests for the home broadband scenarios of China Telecom, China Unicom and China Mobile, as well as the broadband scenario test for KDDI in Japan, have been completed. The P2P throughput rate and availability rate have both reached 100%.
+    + Optimized the internal network proxy mechanism, allowing users to specify which addresses and domains should be forwarded locally (without going through the P2P tunnel).
+    + Fixed the bug that might prevent access to the local machine via http://rollbilink.config
+
 Updated at 6/16/2026 12:02
     + Fixed the bug causing slow protocol synchronization during P2P hole punching.
 
